@@ -1,5 +1,13 @@
 # Reinforcement Learning Project: Pong
 
+This is a project from the course Reinforemenat learning 1RT747 during spring 2022. The project was conducted in a team of four. The aim was to use neural network for learning the agent to play pong. This is a initial version where the agent learns to play but there is room for improvement for speeding up the learning process and time.
+
+## Contributors
++ Rickebo
++ AronFreyr
++ ghmo2789
++ Bela7171
+
 ## Requirements
 To use the version 0.18 of the gym environment it is necessary to use Python 3.7 or lower.
 Also, to use torch it is necessary to use the 64 bit version of Python. 
